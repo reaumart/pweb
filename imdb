@@ -1,0 +1,45 @@
+<!doctype html>
+<html> 
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Filmes 2022
+        </title>
+    </head>
+    <body>
+        <h1>
+            Melhores filmes
+        </h1>
+        <h4> 
+            <p>Apenas filmes que foram lançados em 2022 </p>
+        </h4>
+
+        <table border="3"> 
+            <tr>
+                <th>Título</th>
+                <th>Lançamento</th>
+                <th>Diretor</th>
+                <th>Distribuidora</th>               
+            </tr>
+            <tr>
+                <td>Aftersun</td>
+                <td>01 de Dezembro</td>
+                <td>Charlotte Wells</td>
+                <td>Mubi/A24</td>              
+            </tr>
+            <tr>
+                <td>Decision to leave</td>
+                <td>23 de Maio</td>
+                <td>Park Chan-Wook</td>
+                <td>CJ Entertainment</td>               
+            </tr>
+            <tr> 
+                <td>Everything Everywhere All At Once</td>
+                <td>11 de Março</td>
+                <td>The Daniels</td>
+                <td>A24</td>
+            </tr>
+
+        </table>
+    </body>
+</html>
